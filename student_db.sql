@@ -94,8 +94,8 @@ CREATE TABLE IF NOT EXISTS `siswa` (
 
 INSERT INTO `siswa` (`id`, `NIS`, `nama`, `TTL`, `gender`, `alamat`) VALUES
 (1, '1001', 'Budi', 'Jakarta, 15 Mei 2005', 'L', 'Jl. Merdeka No. 123, Jakarta'),
-(2, '1002', 'Ani=', 'Surabaya, 22 Juli 2004', 'P', 'Jl. Pahlawan No. 45, Surabaya'),
-(3, '1003', 'Citra=', 'Bandung, 10 Januari 2005', 'P', 'Jl. Asia Afrika No. 78, Bandung'),
+(2, '1002', 'Ani', 'Surabaya, 22 Juli 2004', 'P', 'Jl. Pahlawan No. 45, Surabaya'),
+(3, '1003', 'Citra', 'Bandung, 10 Januari 2005', 'P', 'Jl. Asia Afrika No. 78, Bandung'),
 (4, '1004', 'Doni', 'Semarang, 5 Maret 2004', 'L', 'Jl. Pemuda No. 56, Semarang'),
 (5, '1005', 'Putri', 'Yogyakarta, 30 September 2005', 'P', 'Jl. Malioboro No. 90, Yogyakarta');
 COMMIT;
